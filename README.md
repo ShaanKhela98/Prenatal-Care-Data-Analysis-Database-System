@@ -59,5 +59,3 @@ The project reviews how language barriers may influence prenatal visit frequency
 
 ## Author
 Shaan Khela  
-M.S. Health Informatics Candidate  
-Grand Canyon University
